@@ -1,0 +1,3 @@
+rootProject.name = 'TextInputComposition'
+
+include ':app'
